@@ -10,8 +10,8 @@ RSS script forked from [RSSs-Widget](https://github.com/edasque/RSSs_Ubersicht_W
 
 ## Installation
 
-1. Copy into your Übersicht directory.
-2. Edit config.json to add/remove RSS feeds
+1. Copy **newsriver.widget** folder into your Übersicht directory.
+2. Edit config.json to add/remove RSS feeds. Feeds will display in order.
 
 ## Customization
 
