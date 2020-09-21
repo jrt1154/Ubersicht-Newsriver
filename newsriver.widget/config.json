@@ -1,0 +1,12 @@
+{
+	"max_items": 500,
+	"feeds": [
+ 	{
+		"name": "BBC News",
+		"url": "http://feeds.bbci.co.uk/news/rss.xml?edition=int"
+	},
+	{
+		"name": "NHK ニュース",
+		"url": "https://www.nhk.or.jp/rss/news/cat0.xml"
+	}]
+}
