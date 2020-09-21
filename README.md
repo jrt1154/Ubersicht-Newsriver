@@ -1,5 +1,10 @@
 # Ubersicht-Newsriver
-Newsriver scrolling news ticker widget for Übersicht. Based on the Safari extension of the same name that I developed approximately 94 years previous.
+
+![Flaggy banner](img/banner.jpg)
+
+Newsriver scrolling news ticker widget for Übersicht. 
+
+Based on the defunct Safari extension of the same name that I developed approximately 94 years previous.
 
 RSS script forked from [RSSs-Widget](https://github.com/edasque/RSSs_Ubersicht_Widget) and modified for ticker presentation.
 
